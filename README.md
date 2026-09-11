@@ -70,11 +70,4 @@ To ensure high performance and ultra-fast visual rendering, the front-end dashbo
 
 ---
 
-## 🏁 How To Run This Project Locally
-1. Clone this repository to your machine.
-2. Ensure you have the original `supply_chain_data.csv` in your folder.
-3. Run the data cleansing and calculation pipeline script via Jupyter Notebook or terminal:
-   ```bash
-   python quality_pipeline.py
-   ```
-4. Open Power BI Desktop and import the generated `powerbi_supply_chain_master.csv` file from your desktop.
+
